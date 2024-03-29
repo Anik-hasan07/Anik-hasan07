@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik-hasan07&label=Profile%20views&color=0e75b6&style=flat" alt="anik-hasan07" /> </p>
 
-- 🌱 I’m currently learning **Nest.js,Gatsby**
+- 🌱 I’m currently learning **Nest.js,Docker,Kubernetes**
 
 - 💬 Ask me about **React,Node,Express,Mongodb**
 
